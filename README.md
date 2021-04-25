@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi Fellow Devs :wave:
 
-<!--
-**jerinpetergeorge/jerinpetergeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm JPG 😜,  a Fellow Backend Developer and Open Source Enthusiast from Kerala (India).
+</p>
 
-Here are some ideas to get you started:
+## Stats
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=jerinpetergeorge&show_icons=true&theme=onedark&count_private=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jerinpetergeorge&layout=compact&hide_border=true&theme=onedark">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=jerinpetergeorge&theme=onedark&hide_border=true">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me on 
+*   <a href="https://stackoverflow.com/users/8283848/jpg"><img src="https://stackoverflow.com/users/flair/8283848.png" width="208" height="58" alt="JPG's StackOverflow Stats"></a>
